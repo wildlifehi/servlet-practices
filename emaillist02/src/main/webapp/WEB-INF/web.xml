@@ -9,6 +9,7 @@
     <welcome-file>default.htm</welcome-file>
     <welcome-file>default.jsp</welcome-file>
   </welcome-file-list>
+  
   <servlet>
     <description></description>
     <display-name>EmaillistServlet</display-name>
@@ -19,4 +20,5 @@
     <servlet-name>EmaillistServlet</servlet-name>
     <url-pattern>/el</url-pattern>
   </servlet-mapping>
+  
 </web-app>
